@@ -19,7 +19,7 @@ e<html>
 		}
 	%>
 	<br/>
-	<input type="submit" value="Calculate"/>
+	<input type="submit" value="Calculated"/>
 
 </form>
 
